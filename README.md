@@ -1,4 +1,4 @@
-Core Modules
+Core Modules:
 -Product Microservice - Manage product catalog and inventory.
 -Shopping Cart Microservice - Handle cart operations and user sessions.
 -Order Microservice - Manage order placement and tracking.
@@ -8,7 +8,7 @@ Core Modules
 -.NET Identity Microservice - User authentication and authorization.
 -MVC Web Application - Frontend interface for users.
 
-Key Technologies
+Key Technologies:
 -SQL Server
 -Azure Service Bus
 -.NET 8
